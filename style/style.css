@@ -48,7 +48,7 @@ header nav a:hover {
 .filmePrincipal {
     font-size: 16px;
     height: 500px;
-    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, .50)100%), url('/img/interestelar.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, .50)100%), url('../img/interestelar.jpg');
     background-size: cover;
     display: flex;
     flex-direction: column;
